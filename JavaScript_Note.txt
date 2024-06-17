@@ -1,0 +1,122 @@
+JavaScript Road Map:
+Section-1
+Basics:
+    .What JavaScript & Itd features
+        JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. 
+        (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
+        features:
+        Scripting Language.
+        Interpreter Based.
+        Validation of User's Input.
+        Ability to Perform In Build Function.
+        Case Sensitive Format.
+        Light Weight and Delicate.
+        Statements Looping.
+        Case Sensitive.
+    .Variables in JavaScript
+        1.Variables are basically a containers. we can stroe the data. that data  we can use anywhere in the programming
+        2.Variables in JS
+            .Var - we can use anywhere 
+            .let - first we need initialize the Variables
+                    block level Scope
+            .const - Fixed values
+            we can use these type declare the Variables names
+    
+    .Data Types - dynamically
+    .Operators
+    .Conditional & Control Statements
+    .Loops
+    .Data Strutures
+    .Scope
+    .Objects
+    .Functions
+    .Form Validations
+    .DOM Manipulation
+    .Events
+    .BOM Elements
+
+Advanced:
+    .prototyping
+    .proto type Inhertance
+    .call backs
+    .IIFE
+    .Promises
+    .Ajax
+    .Async Await
+    .closures
+    .oops concepts
+    .JSON
+
+
+
+
+
+
+
+
+
+
+
+CSS :
+1. Color Property
+    Use to set the color of foreground
+    color: red;
+    using this Property to change the color of the foreground properties
+    for example one button is there with name button use this property to change the color of text only.
+
+2. background-color Property
+    - To change the background color
+    background-color: green;
+
+3. color Systems
+    RGB and Hex Systems
+
+4. Selectors
+    - Universal Selector *{} ->asterisk 
+    - Element Selector Ex: h1,body ...etc
+    - Id Selector "#"
+    - Class Selector ".class"
+
+5. Text properties
+    -text-align
+    -text-decoration
+    //mdn
+    -font-Weight
+    -font-family / style
+
+Units in css:
+Absolute
+Pixels(px)
+96px = 1 inch
+
+6. line Height Property
+    line-Height
+7. text-transform
+    Example- upperCase and lowerCase none....
+
+Box Model in css
+1.width
+2.Height
+3.Padding
+    -left
+    -right
+    -top
+    -bottom
+4.content
+5.Margin
+    -left
+    -right
+    -top
+    -bottom
+
+6.Border
+border
+    border-width
+    border-style
+    border-color
+    border-radius
+
+display Property:
+
+inline / block/ inline-block/ none
+
